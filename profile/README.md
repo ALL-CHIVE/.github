@@ -1,0 +1,1 @@
+<img width="1920" alt="Slide 16_9 - 116" src="https://github.com/ALL-CHIVE/All-Chive-Server/assets/67852689/fda85dfb-baf1-4ecf-bf89-08cbcb4554ee">
