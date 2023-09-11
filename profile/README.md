@@ -1,6 +1,7 @@
 <img width="1920" alt="Slide 16_9 - 116" src="https://github.com/ALL-CHIVE/All-Chive-Server/assets/67852689/fda85dfb-baf1-4ecf-bf89-08cbcb4554ee">
 
 <div align="center">
+<br/>
 
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/all.chive/)](https://www.instagram.com/all.chive/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](always.allchive@gmail.com)
